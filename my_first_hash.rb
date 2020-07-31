@@ -1,7 +1,6 @@
 def my_hash
 
-
-  my_hash = {"Name" => "Marine Boudeau", "Age" => "32", "Status" => "Single"}
+groceries = {"Eggs" => 2, "Milk" => 3, "Grapefruit" => 4}
 
 end	
 
