@@ -1,9 +1,10 @@
+def my_hash = {
+  
+}
+  
 
-  groceries = {
-    "eggs" => 12
-    "milk" => 1
-  }
-
+  
+end
 
 
 def shipping_manifest
