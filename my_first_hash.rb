@@ -1,8 +1,8 @@
-def my_hash(
+def 
   groceries = {
     "eggs" => 12
     "milk" => 1
-  })
+  }
 end
 
 
