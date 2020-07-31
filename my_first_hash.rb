@@ -3,9 +3,6 @@ def my_hash(
     "eggs" => 12
     "milk" => 1
   })
-  
-
-  
 end
 
 
